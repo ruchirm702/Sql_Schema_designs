@@ -2,7 +2,6 @@
 
 Welcome to the Database Schema Designs repository! This repository contains a collection of well-structured and optimized database schema designs for various use cases. Whether you're developing a new application or looking to improve an existing database structure, you'll find useful resources here.
 
-
 ## What is Schema Design?
 
 Schema design refers to the process of defining the structure of a database, including the tables, fields, relationships, and constraints that organize and store data. A well-designed schema ensures efficient data retrieval, storage, and management while maintaining data integrity and reducing redundancy. Good schema design follows best practices such as normalization to minimize redundancy and optimize performance.
@@ -10,10 +9,9 @@ Schema design refers to the process of defining the structure of a database, inc
 ## Schemas
 
 The following schemas are currently available:
-- [E-mail Schema]([schemas/ecommerce_schema.md](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Email%20Schema.pdf))
-- [Movies Schema]([schemas/blog_schema.md](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Moives%20Schema.pdf))
-- [Netflix Schema]([schemas/social_media_schema.md](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Netflix%20Schema.pdf))
-
+- [E-mail Schema](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Email%20Schema.pdf)
+- [Movies Schema](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Moives%20Schema.pdf)
+- [Netflix Schema](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Netflix%20Schema.pdf)
 
 ## Usage
 
