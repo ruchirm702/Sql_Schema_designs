@@ -1,3 +1,6 @@
+![SQL](https://img.shields.io/badge/SQL-Database%20Design-blue) ![MySQL](https://img.shields.io/badge/Database-MySQL-blue) ![Normalization](https://img.shields.io/badge/Normalization-3NF-orange) ![Documentation](https://img.shields.io/badge/Documentation-Available-brightgreen) ![Open Source](https://img.shields.io/badge/Open%20Source-Yes-brightgreen)
+
+
 # Database Schema Designs
 
 Welcome to the Database Schema Designs repository! This repository contains a collection of well-structured and optimized database schema designs for various use cases. Whether you're developing a new application or looking to improve an existing database structure, you'll find useful resources here.
@@ -6,14 +9,14 @@ Welcome to the Database Schema Designs repository! This repository contains a co
 
 Schema design refers to the process of defining the structure of a database, including the tables, fields, relationships, and constraints that organize and store data. A well-designed schema ensures efficient data retrieval, storage, and management while maintaining data integrity and reducing redundancy. Good schema design follows best practices such as normalization to minimize redundancy and optimize performance.
 
-## Schemas
+## 📂 Schemas
 
 The following schemas are currently available:
 - [E-mail Schema](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Email%20Schema.pdf)
 - [Movies Schema](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Moives%20Schema.pdf)
 - [Netflix Schema](https://github.com/ruchirm702/Sql_Schema_designs/blob/main/Netflix%20Schema.pdf)
 
-## Usage
+## 🚀 Usage
 
 1. Clone the repository:
     ```bash
@@ -28,7 +31,7 @@ The following schemas are currently available:
     cd schemas
     ```
 
-## Contributing
+## 🤝 Contributing
 
 We welcome contributions from the community! If you have a schema design that you think would be valuable to others, or if you want to improve existing designs, please follow the guidelines below.
 
